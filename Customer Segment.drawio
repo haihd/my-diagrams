@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T00:14:25.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" version="20.8.10" etag="7_ng_-l77srganv0fNgK" type="github"><diagram name="Page-1" id="ooVbdiaclrfOVu7lgX6T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-25T01:01:27.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="TwX5zXNEY2DfM0JYvswC" version="20.8.10" type="github" pages="3">
+  <diagram name="Non-functional" id="ooVbdiaclrfOVu7lgX6T">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t2Lf0EhcaZ0DND6NPgg2-1" value="Theme customize&lt;br&gt;color / subject (cat /dog lover)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="t2Lf0EhcaZ0DND6NPgg2-2" value="Language support&lt;br&gt;English / Vietnamese / Japanese? / Korean" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="t2Lf0EhcaZ0DND6NPgg2-3" value="Performance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="290" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nRsExKtkg2dDiohrYi9N" name="Functional Design">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-9" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-8" value="Alarm" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-7" value="Focus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-6" value="Reminder" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="535" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-5" value="Calendar management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-3" value="Habit builder" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LLozemDEj-nFxfn_Lmmi-1" value="AI support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="355" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LLozemDEj-nFxfn_Lmmi-2" value="Voice regconize" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-2" value="Memo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-1" value="Todo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="445" y="180" width="225" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="IoRaLXuvZF7h_KIUlzQN-4" value="Goal setting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="405" y="310" width="290" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GvaJ2VT02_Oi4LLuZbSi" name="Architecture Design">
+    <mxGraphModel dx="1793" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-6" value="Server" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-8" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="410" width="110" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnuN4T0kl9uIwaInlzpc-6" target="fnuN4T0kl9uIwaInlzpc-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" source="fnuN4T0kl9uIwaInlzpc-6" target="fnuN4T0kl9uIwaInlzpc-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="361.9230769230769" as="sourcePoint" />
+            <mxPoint x="800" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="790" y="250" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-7" value="Storage services" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-14">
+          <mxGeometry width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-9" value="Drive" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-14">
+          <mxGeometry x="20" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-10" value="Dropbox" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-14">
+          <mxGeometry x="95" y="40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-11" value="iCloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-14">
+          <mxGeometry x="180" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1" source="fnuN4T0kl9uIwaInlzpc-1" target="fnuN4T0kl9uIwaInlzpc-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="280" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-16">
+          <mxGeometry width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-16">
+          <mxGeometry x="89.5" y="130" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="fnuN4T0kl9uIwaInlzpc-5" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="fnuN4T0kl9uIwaInlzpc-16">
+          <mxGeometry x="70.5" y="50" width="79" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
